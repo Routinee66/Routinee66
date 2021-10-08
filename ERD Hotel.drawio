@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T16:37:01.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="AjyUTbeQySea3ZFrGrhr" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T17:26:34.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="Rf2-2iy4p5a8CHYpIMfy" version="15.4.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1380" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1183" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_2R-FOSOjfWYoMCZ2RvR-121" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;fontColor=#004C99;fillColor=#F2F2F2;verticalAlign=middle;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry y="110" width="850" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="lezJPWRJIHB03nq9r9CJ-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#919E90;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="lezJPWRJIHB03nq9r9CJ-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry width="850" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lezJPWRJIHB03nq9r9CJ-47" value="Entity Relationship Diagram (ERD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=16;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
             <mxPoint x="254.8656470588235" y="-189.18918918918922" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lezJPWRJIHB03nq9r9CJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#919E90;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="lezJPWRJIHB03nq9r9CJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry y="690" width="850" height="12.43" as="geometry" />
         </mxCell>
         <mxCell id="lezJPWRJIHB03nq9r9CJ-39" value="memiliki" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#7D7D7D;strokeColor=none;fontColor=#FFFFFF;fontFamily=Lucida Console;fontSize=10;" parent="1" vertex="1">
@@ -148,7 +148,7 @@
         <mxCell id="B9b24JPd0kX0OcIWkk_4-1" value="" style="group" parent="_2R-FOSOjfWYoMCZ2RvR-98" vertex="1" connectable="0">
           <mxGeometry x="-29.73258823529418" y="-12.430540540540498" width="229.72988235294122" height="120.02378378378374" as="geometry" />
         </mxCell>
-        <mxCell id="lezJPWRJIHB03nq9r9CJ-3" value="PENINAPAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;fontStyle=1;fontFamily=Lucida Console;" parent="B9b24JPd0kX0OcIWkk_4-1" vertex="1">
+        <mxCell id="lezJPWRJIHB03nq9r9CJ-3" value="PENINAPAN" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Lucida Console;fontColor=#CC0000;fillColor=#F2F2F2;" parent="B9b24JPd0kX0OcIWkk_4-1" vertex="1">
           <mxGeometry x="77.99988235294131" y="95.15891891891889" width="74.59482352941177" height="24.864864864864863" as="geometry" />
         </mxCell>
         <mxCell id="lezJPWRJIHB03nq9r9CJ-5" value="Alamat" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;" parent="B9b24JPd0kX0OcIWkk_4-1" vertex="1">
