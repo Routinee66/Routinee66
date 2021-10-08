@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T17:26:34.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="Rf2-2iy4p5a8CHYpIMfy" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T17:34:33.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="h9U0qd3N8eFgnFKcSnjf" version="15.4.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1183" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="lezJPWRJIHB03nq9r9CJ-47" value="Entity Relationship Diagram (ERD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=16;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="180" y="10" width="490" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lezJPWRJIHB03nq9r9CJ-48" value="KUI DATABASE PENGINAPAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=24;fontStyle=1;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="lezJPWRJIHB03nq9r9CJ-48" value="KUIS DATABASE PENGINAPAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=24;fontStyle=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="180" y="30" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lezJPWRJIHB03nq9r9CJ-49" value="&lt;font style=&quot;font-size: 10px; line-height: 80%;&quot;&gt;Nama : Daniel Hasiando Sinaga&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFF99;fontSize=10;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
