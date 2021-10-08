@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T15:40:24.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="YaUgrpWPjL2U-UBnlTaZ" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T16:37:01.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="AjyUTbeQySea3ZFrGrhr" version="15.4.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1183" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1380" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="lezJPWRJIHB03nq9r9CJ-47" value="Entity Relationship Diagram (ERD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=16;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="180" y="10" width="490" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lezJPWRJIHB03nq9r9CJ-48" value="PROGRAM PENGINAPAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=24;fontStyle=1;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="lezJPWRJIHB03nq9r9CJ-48" value="KUI DATABASE PENGINAPAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=24;fontStyle=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="180" y="30" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lezJPWRJIHB03nq9r9CJ-49" value="&lt;font style=&quot;font-size: 10px; line-height: 80%;&quot;&gt;Nama : Daniel Hasiando Sinaga&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFF99;fontSize=10;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
@@ -145,10 +145,10 @@
         <mxCell id="_2R-FOSOjfWYoMCZ2RvR-98" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="350.00247058823527" y="160.01486486486482" width="289.18741176470587" height="110.01324324324325" as="geometry" />
         </mxCell>
-        <mxCell id="B9b24JPd0kX0OcIWkk_4-1" value="" style="group" vertex="1" connectable="0" parent="_2R-FOSOjfWYoMCZ2RvR-98">
+        <mxCell id="B9b24JPd0kX0OcIWkk_4-1" value="" style="group" parent="_2R-FOSOjfWYoMCZ2RvR-98" vertex="1" connectable="0">
           <mxGeometry x="-29.73258823529418" y="-12.430540540540498" width="229.72988235294122" height="120.02378378378374" as="geometry" />
         </mxCell>
-        <mxCell id="lezJPWRJIHB03nq9r9CJ-3" value="HOTEL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;fontStyle=1;fontFamily=Lucida Console;" parent="B9b24JPd0kX0OcIWkk_4-1" vertex="1">
+        <mxCell id="lezJPWRJIHB03nq9r9CJ-3" value="PENINAPAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;fontStyle=1;fontFamily=Lucida Console;" parent="B9b24JPd0kX0OcIWkk_4-1" vertex="1">
           <mxGeometry x="77.99988235294131" y="95.15891891891889" width="74.59482352941177" height="24.864864864864863" as="geometry" />
         </mxCell>
         <mxCell id="lezJPWRJIHB03nq9r9CJ-5" value="Alamat" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;" parent="B9b24JPd0kX0OcIWkk_4-1" vertex="1">
@@ -178,7 +178,7 @@
             <mxPoint x="277.300705882353" y="104.61135135135136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lezJPWRJIHB03nq9r9CJ-4" value="Bintang" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;" parent="B9b24JPd0kX0OcIWkk_4-1" vertex="1">
+        <mxCell id="lezJPWRJIHB03nq9r9CJ-4" value="Total_kamar" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;" parent="B9b24JPd0kX0OcIWkk_4-1" vertex="1">
           <mxGeometry y="30.003513513513447" width="49.729882352941175" height="24.864864864864863" as="geometry" />
         </mxCell>
         <mxCell id="lezJPWRJIHB03nq9r9CJ-18" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="B9b24JPd0kX0OcIWkk_4-1" source="lezJPWRJIHB03nq9r9CJ-4" target="lezJPWRJIHB03nq9r9CJ-3" edge="1">
