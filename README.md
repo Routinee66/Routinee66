@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Routinee66
-- 👀 I’m interested in Data Science and stuff
+- 👀 I’m interested in Data and stuff
 - 🌱 I’m currently learning Computer Science in College
 - 💞️ I’m looking to collaborate on Anyone
 - 📫 How to reach me daniel.sinaga.ds@gmail.com
