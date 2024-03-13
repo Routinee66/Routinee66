@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @pesuts<br>👀 I’m interested in Data and stuff<br>🌱 I’m currently learning Informatics in College<br>💞️ I’m looking to collaborate on Anyone<br>📫 How to reach me daniel.sinaga.ds@gmail.com
+👋 Hi, I’m Daniel Sinaga (@pesuts) <br>👀 I’m interested in Data and stuff<br>🌱 I’m currently learning Informatics in College<br>💞️ I’m looking to collaborate on Anyone<br>📫 How to reach me daniel.sinaga.ds@gmail.com
 
 
 ## 🌐 Socials:
